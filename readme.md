@@ -28,4 +28,5 @@ A proposta do teste é:
 - Faça um _**fork**_ deste repositório
 - Desenvolva sua aplicação
 - Envie as atualizações para seu repositório
-- Envie-nos um e-mail confirmando a finalização junto com o _**link do repositório**_
+- Faça um _**pull request**_
+- Envie-nos um e-mail confirmando a finalização
