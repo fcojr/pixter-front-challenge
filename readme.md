@@ -2,7 +2,7 @@
 
 [![N|Solid](https://pixter.com.br/wp-content/uploads/2018/06/logo-black.png)](http://pixter.com.br)
 
-Layout disponível em /Teste-Front-End.psd
+Layout disponível em `https://www.figma.com/file/6gf0UxEqNYEPKPVXFoJPP1/Challenge-Front-End?node-id=155%3A2`
 
 A proposta do teste é:
 
