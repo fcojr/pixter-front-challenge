@@ -1,6 +1,6 @@
 # Teste de desenvolvimento Front End
 
-[![N|Solid](https://pixter.com.br/wp-content/uploads/2018/06/logo-black.png)](http://pixter.com.br)
+[![N|Solid](https://www.pixtertechnologies.com/wp-content/uploads/2020/01/logo-white.png)](http://pixter.com.br)
 
 Layout disponível em `https://www.figma.com/file/6gf0UxEqNYEPKPVXFoJPP1/Challenge-Front-End?node-id=155%3A2`
 
