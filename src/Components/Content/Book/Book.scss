@@ -27,9 +27,11 @@
             left: 50%;
             transform: translate(-50%, -50%);
             padding: 20px;
+            max-height: 600px;
 
             @media(max-width: 979px) {
                 width: 80%;
+                overflow-y: scroll;
             }
 
             header {
@@ -47,6 +49,10 @@
                     display: block;
                     width: 30px;
                 }
+            }
+
+            .no-image {
+                margin-bottom: 20px;
             }
 
             img {

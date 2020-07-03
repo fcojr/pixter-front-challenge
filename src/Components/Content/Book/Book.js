@@ -33,7 +33,7 @@ function Book(props) {
                         </header>
                         {props.thumbnail
                             ? <img src={props.thumbnail} alt={props.title} />
-                            : <p>No image found.</p>
+                            : <p className='no-image'>No image found.</p>
                         } 
                         {props.description
                             ? <p>{props.description}</p>
